@@ -3,7 +3,11 @@
 > Personal portfolio showcasing my software engineering journey, projects, technical skills, education, professional experience, and research work.
 
 🌐 **Live Portfolio:** https://github.io/Ahan-07/Zakir-Hussain-Software-Engineer-Portfolio
+
+
 💼 **LinkedIn:** https://www.linkedin.com/in/zakirhussain07
+
+
 🐙 **GitHub:** https://github.com/Ahan-07/Zakir-Hussain-Software-Engineer-Portfolio
 
 
